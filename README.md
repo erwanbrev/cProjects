@@ -1,4 +1,4 @@
-# projectsC
+# Projects in C language 
 
 ### - "cinema" is my first project and "myGoogleMaps" is my second project.
 
